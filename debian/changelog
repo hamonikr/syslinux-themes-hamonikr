@@ -1,0 +1,6 @@
+syslinux-themes-hamonikr (1.0.0) sun; urgency=medium
+
+  * Use the same theme for all editions
+  * Initial release, based in part on syslinux-themes-debian 9-1.
+
+ -- Kevin Kim <root@hamonikr.org>  Tue, 02 Jul 2019 16:03:05 +0900
