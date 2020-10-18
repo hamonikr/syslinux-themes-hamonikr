@@ -1,3 +1,9 @@
+syslinux-themes-hamonikr (2.0.0) jin; urgency=medium
+
+  * rebuild for HamoniKR 4.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Sun, 18 Oct 2020 15:50:44 +0900
+
 syslinux-themes-hamonikr (1.0.0) sun; urgency=medium
 
   * Use the same theme for all editions

@@ -6,10 +6,11 @@ Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.2
 
 Package: syslinux-themes-hamonikr
-Architecture: all
-Depends: ${misc:Depends}, isolinux, memtest86+, syslinux-common
+Architecture: amd64
+Depends: isolinux, memtest86+, syslinux-common, ${misc:Depends}
 Enhances: extlinux
 Provides: syslinux-theme
+Replaces: syslinux-themes-linuxmint
 Description: collection of boot loaders
  SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
  btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
